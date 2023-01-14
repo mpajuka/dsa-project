@@ -1,0 +1,9 @@
+*.pro.user*
+.idea/
+prg2.app/
+ui_mainwindow.h
+moc_mainwindow.cpp
+moc_predefs.h
+.DS_store
+.qmake.stash
+Makefile

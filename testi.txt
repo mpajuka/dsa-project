@@ -1,0 +1,6 @@
+add_station Id1 "One" (11,12)
+add_station Id2 "Two" (21,22)
+add_station Id3 "Three" (13,20)
+add_train T1 Id1:0900 Id2:1000
+add_train T2 Id2:0800 Id3:1000
+
